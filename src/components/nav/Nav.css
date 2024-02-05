@@ -1,0 +1,21 @@
+.nav-container {
+    padding-left: 50px;   
+    background-color: #FFDD03;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    padding: 40px;
+    margin: 0%;
+}
+
+li {
+    margin-right: 50px;
+}
+
+a {
+    text-decoration: none;
+    color: #FA275A;
+    font-weight: bold;
+}
