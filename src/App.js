@@ -4,15 +4,14 @@ import { BrowserRouter as Router } from "react-router-dom";
 import "./App.css";
 import Nav from "./components/nav/Nav";
 import Footer from "./components/footer/Footer.jsx";
+import Birthday from "./components/birthday/Birthday.jsx";
 
 function App() {
   return (
     <Router>
       <div className="App">
         <Nav />
-        <header className="App-header">
-          <h1>test</h1>
-        </header>
+        <Birthday />
         <Footer />
       </div>
     </Router>

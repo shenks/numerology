@@ -1,6 +1,7 @@
 .nav-container {
     padding-left: 50px;   
-    background-color: #291B7B;
+    background-color: #373E7A;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2)
 }
 
 ul {
@@ -16,6 +17,6 @@ li {
 
 a {
     text-decoration: none;
-    color: #eee9fb;
+    color: #b1b5e0;
     font-weight: bold;
 }
